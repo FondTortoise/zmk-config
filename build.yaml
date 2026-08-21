@@ -20,6 +20,6 @@
 ---
 include:
   - board: nrfmicro_11
-    shield: split_left
+    shield: corne_left
   - board: nrfmicro_11
-    shield: split_right
+    shield: corne_right
